@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "id":1,
+            "pictureImg":"../img/lunbo/1.jpg",
+            "status":"运行中"
+        },
+        {
+            "id":2,
+            "pictureImg":"../img/lunbo/2.jpg",
+            "status":"运行中"
+        },
+        {
+            "id":3,
+            "pictureImg":"../img/lunbo/3.jpg",
+            "status":"运行中"
+        },
+        {
+            "id":4,
+            "pictureImg":"../img/lunbo/4.jpg",
+            "status":"运行中"
+        }
+    ]
+}
